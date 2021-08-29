@@ -2,12 +2,12 @@ app:
  name: springboot-config
  description: for learning config
 my:
- greeting: prod Hello world  from spring config server repo
+ greeting: spring-boot-config prod Hello world  from spring config server repo
  list:
   names: ajay,raghu,kumar 
 db:
- connection: prod connection-url
- host: prod db_host
+ connection: spring-boot-config prod connection-url
+ host: spring-boot-config prod db_host
  port: 1234
 management:
   endpoints:
